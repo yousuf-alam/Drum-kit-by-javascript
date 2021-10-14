@@ -1,0 +1,52 @@
+body {
+
+background-color: #C37B89;
+
+}
+
+#header {
+
+
+padding: 3% 10%;
+text-align: center;
+
+
+}
+
+h1 {
+
+color: white;
+font-weight: bold;
+font-size: 3.5rem;
+
+}
+
+.set {
+
+margin-top: 100px;
+
+}
+.sm{
+
+
+height: 150px;
+width: 150px;
+color: yellow;
+
+}
+
+
+
+footer {
+
+  position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #334756;
+   color: white;
+   text-align: center;
+   height: 30px;
+   padding-top: 5px;
+
+}
